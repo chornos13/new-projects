@@ -1,0 +1,7 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-hook-form": "^7.43.9"
+  }
+}
